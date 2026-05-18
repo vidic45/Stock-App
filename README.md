@@ -5,8 +5,8 @@ Un script Python + una landing React. Sin bases de datos, sin servidores.
 
 ---
 
-![DEMO](/screenshots/home.png)
-![DEMO](/screenshots/example.png)
+![DEMO](/landing/home.png)
+![DEMO](/landing/example.png)
 
 ## Estructura del repo
 
