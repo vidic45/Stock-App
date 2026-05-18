@@ -1,0 +1,17 @@
+# Node
+landing/node_modules/
+landing/dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Archivos generados por el script
+script/inventario.json
+script/Factura_*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
