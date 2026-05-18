@@ -228,7 +228,7 @@ function Nav({ active }) {
 
       {/* CTA */}
       <a
-        href="https://github.com"
+        href="https://github.com/vidic45/Stock-App"
         target="_blank"
         rel="noreferrer"
         style={{ textDecoration: "none" }}
