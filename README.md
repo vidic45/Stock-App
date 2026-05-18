@@ -86,7 +86,6 @@ npm run preview
 | Script | Python 3 + ReportLab |
 | Landing | React 18 + Vite |
 | Estilos | CSS-in-JS (inline styles) |
-| Fuentes | Syne, DM Sans, Fira Code (Google Fonts) |
 
 ---
 
